@@ -1,3 +1,5 @@
+> Deprecated - Please use https://github.com/sarbbottam/auto-formatter
+
 input-data-formatter
 ---
 
